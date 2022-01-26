@@ -1,0 +1,2 @@
+# CyFinBot
+Auto Trading Bot

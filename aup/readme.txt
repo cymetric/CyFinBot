@@ -1,1 +1,0 @@
-aup for CyFinBot

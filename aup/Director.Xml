@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppLifeUpdate BuilderVersion="4.0.2.28" type="full" xmlns="http://www.kineticjump.com/AppLifeUpdate/DirectorSchema">
 	<Application AppId="76d2563c-8ef6-4de0-83d6-0db2b10cb9e4" NoUpdateDisplayText="">
-		<Versions />
+		<Versions>
+			<Version number="1.0.5.0" postdate="2022-02-08T14:44:18.6143779Z" signature="HX+pcI8Q3zwkQegaJA0VcmrEkYjLOX8Kpnb/5Ql73Q5tzfA+le61JelsAZwaNk76k/4B5PR7oSGfVdoLLzT1ra006LYgDjlotwffBPmSFZrgAOEXkG9kwPAnHranvzfsvhV7Hpq1FFYOmDtiHjdDAeQWJDz/IFn1dXcTLP577+o=" fileSize="648817" isTest="false" allowChaining="true" uacLauncherHash="KOdknlR6EMXyNKwqlE7VJccxFkQ=">
+				<Targets>
+					<Target number="0.0.0.0" />
+				</Targets>
+			</Version>
+		</Versions>
 	</Application>
 </AppLifeUpdate>

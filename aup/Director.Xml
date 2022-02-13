@@ -2,7 +2,7 @@
 <AppLifeUpdate BuilderVersion="4.0.2.28" type="full" xmlns="http://www.kineticjump.com/AppLifeUpdate/DirectorSchema">
 	<Application AppId="76d2563c-8ef6-4de0-83d6-0db2b10cb9e4" NoUpdateDisplayText="">
 		<Versions>
-			<Version number="1.0.6.0" postdate="2022-02-08T15:44:44.2250617Z" signature="SWwIa+5+NxXgkRsXgHpEuIb5p23f+71UleiYe8V+ByNHtmScw7d6mHgMAhIEqEmE6FkMhIkGQ57OivjchKWisMrzd1ZeyXZ0TpZJa5lJoFFVOLL1of+cJsN0oKdfmXCc0F5DmwWXYippRc0lvYcCh3m5Z2KnrOcb1L2G5RmL708=" fileSize="7476983" isTest="false" allowChaining="true" uacLauncherHash="KOdknlR6EMXyNKwqlE7VJccxFkQ=">
+			<Version number="1.0.7.0" postdate="2022-02-13T15:33:54.6928738Z" signature="L4xAmLYlKFiBS/5H9VHeVeqM52C1ygUMgkkUmnVVXNFRKfmbxUeGs+0jphKTWgT+BkuIbam/+cor0r2Ykxm4+O/nFNDcw+Y3MLZ0SnPd1qjVEjjL1yFYbVaAjsX017WMqOGC5jq9oM6BmZJPlXN+p3jehXwtti7RGTWTHddUWms=" fileSize="7046045" isTest="false" allowChaining="true" uacLauncherHash="KOdknlR6EMXyNKwqlE7VJccxFkQ=">
 				<Targets>
 					<Target number="0.0.0.0" />
 				</Targets>
